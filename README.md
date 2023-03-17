@@ -14,7 +14,7 @@
 ## Você pode entrar em contato comigo por:
 
 <div>
-  <a href="intagram.com/guilhermeblmr">
+  <a href="instagram.com/guilhermeblmr">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Sg7TEMKA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" loading="lazy" width="121" height="28">
   </a>
   
