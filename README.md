@@ -1,4 +1,5 @@
-### Opa! Eai? 👋
+### Opa! Eai? <img alt="Gui-pic" height="25" src="https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif">
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeblmr&layout=compact&show_icons=true&theme=radical)](https://github.com/guilhermeblmr/github-readme-stats)
 
@@ -9,6 +10,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" loading="lazy" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
+
 </div>
 
 ## Você pode entrar em contato comigo por:
