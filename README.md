@@ -3,7 +3,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeblmr&layout=compact&show_icons=true&theme=radical)](https://github.com/guilhermeblmr/github-readme-stats)
 
-## Estou aprendendo e trabalhando com:
+##
+
+### Estou aprendendo e trabalhando com:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
@@ -13,7 +15,9 @@
 
 </div>
 
-## Você pode entrar em contato comigo por:
+##
+
+### Você pode entrar em contato comigo por:
 
 <div>
   <a href="https://www.instagram.com/guilhermeblmr">
