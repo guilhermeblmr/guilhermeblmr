@@ -19,7 +19,7 @@
 
 <div align="center">
   
-  ![image load fail. please open proxy retry](https://github.com/guilhermeblmr/commit-snake/blob/snk/snk.svg)
+  ![snake.gif](https://github.com/guilhermeblmr/commit-snake/blob/snk/snk.svg)
   
 </div>
 
