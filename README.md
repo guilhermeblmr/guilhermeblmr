@@ -18,9 +18,9 @@
 ##
 
 <div align="center">
-
-  ![Snake animation](https://github.com/guilhermeblmr/guilhermeblmr/blob/output/github-contribution-grid-snake.svg)
-
+  
+  ![image load fail. please open proxy retry](https://github.com/guilhermeblmr/commit-snake/blob/snk/snk.svg)
+  
 </div>
 
 
