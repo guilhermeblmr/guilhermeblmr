@@ -1,35 +1,44 @@
-### Opa! Eai? <img alt="Gui-pic" height="25" src="https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif">
+# Olá, eu sou Guilherme! 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeblmr&layout=compact&show_icons=true&theme=radical&hide=visualbasic)](https://github.com/guilhermeblmr/github-readme-stats)
+<img align="right" height="125" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJ5djV5MmVraW5haGRzcmZhOHJtNnlyNHA4YngyNWVuOGl2bXdubyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LHZyixOnHwDDy/giphy.gif"  />
 
-##
+### Software Engineer | Full Stack Developer
 
-### Estou aprendendo e trabalhando com:
+Sou desenvolvedor Full Stack apaixonado por criar soluções escaláveis e explorar novas tecnologias.
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" loading="lazy" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" loading="lazy" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" loading="lazy" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" loading="lazy" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" loading="lazy" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" loading="lazy" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" loading="lazy" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" loading="lazy" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" loading="lazy" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" loading="lazy" height="40"/>
-</div>
+*Movido a café e música* ☕🎵
 
-##
+---
 
-### Você pode entrar em contato comigo por:
+## 🚀 Tecnologias
 
-<div>
-  <a href="https://www.instagram.com/guilhermeblmr">
-    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Sg7TEMKA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" loading="lazy" width="121" height="28">
-  </a>
-  <a href="mailto:guilhermbloem@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" loading="lazy" width="83" height="28">
-  </a>
-  <a href="https://www.linkedin.com/in/guilherme-bloemer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009587?style=for-the-badge&logo=FastAPI&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### AI
+![Agno](https://img.shields.io/badge/Agno-AI-E83C17?style=for-the-badge&logo=agno&logoColor=white)
+
+---
+
+## 📌 Atualmente
+
+- 🔭 Desenvolvendo aplicações Full Stack
+- 💻 Estudando Python e IA
+- 🤖 Explorando Agno para desenvolvimento de agentes inteligentes
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/guilherme-bloemer)
