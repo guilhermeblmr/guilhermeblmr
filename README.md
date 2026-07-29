@@ -34,7 +34,7 @@ Full Stack Developer passionate about building scalable applications and explori
 ## 📌 What I'm Currently Working On
 
 - 🔭 Building Full Stack applications
-- 💻 Learning Python and Artificial Intelligence
+- 💻 Building with Python and Artificial Intelligence
 - 🤖 Exploring Agno for AI agent development
 
 ---
